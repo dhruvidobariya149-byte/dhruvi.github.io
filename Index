@@ -1,1 +1,3 @@
-echo "<h1>Hello, this is my first GitHub Page!</h1>" > index.html
+string = "Dhruvi"
+print("Original String: ",string)
+print("Concate With Dobariya: ",string+"Dobariya")
